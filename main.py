@@ -1,4 +1,5 @@
-
+#This is the Frog Road Arcade game main program file
+#Detecting changes
 import pygame, sys, random
 from frog import Frog
 from street import Street
